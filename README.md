@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on something cool💎!
 - 🌱 I'm currently learning with help from docs.github.com
 - 👯 I'm looking to collaborate on ... C#
-- 🤔 I'm looking for help with...Python🐍
+- 🤔 My interests are with Natural Language Processing/Understanding, Critical Thinking, etc..;
 - 💬 Ask me about ...JavaScript😍
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
 - 😄 Pronouns: ...What if our universe was just a Code</>
 - ⚡ Fun fact: I Code Anything⭐
+- ![image](https://user-images.githubusercontent.com/60426469/110253037-7fb85a00-7f88-11eb-9955-c8d63580263c.png)
+
 
 
