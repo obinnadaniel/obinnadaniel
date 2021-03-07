@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -
 --> Am Obinna Daniel a Web Developer:blue_heart:::virgo:
 
-- 🔭 I'm currently working on something cool!
+- 🔭 I'm currently working on something cool💎!
 - 🌱 I'm currently learning with help from docs.github.com
 - 👯 I'm looking to collaborate on ... C#
 - 🤔 I'm looking for help with...Python🐍
-- 💬 Ask me about ...💎JavaScript😍
+- 💬 Ask me about ...JavaScript😍
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
 - 😄 Pronouns: ...What if our universe was just a Code</>
 - ⚡ Fun fact: I Code Anything⭐
