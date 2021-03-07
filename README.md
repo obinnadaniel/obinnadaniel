@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...What if our universe was just a Code🖥
 - ⚡ Fun fact: ...✈🛸💎
 -
---> Am Obinna Daniel a Web Developer💎
+--> Am Obinna Daniel a Web Developer💎:virgo:
 
 - 🔭 I'm currently working on ... React
 - 🌱 I'm currently learning ...C#_
