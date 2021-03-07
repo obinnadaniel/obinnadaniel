@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on something cool💎!
 - 🌱 I'm currently learning with help from docs.github.com
 - 👯 I'm looking to collaborate on ... C#
-- 🤔 My interests are with Natural Language Processing/Understanding, Critical Thinking, etc..;
+- 🤔 My interests are with Data Mining, Critical Thinking, etc..;
 - 💬 Ask me about ...JavaScript😍
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
 - 😄 Pronouns: ...What if our universe was just a Code</>
