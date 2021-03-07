@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...What if our universe was just a Code🖥
 - ⚡ Fun fact: ...✈🛸💎
 -
---> Am Obinna Daniel a Web Developer:computer::virgo:
+--> Am Obinna Daniel a Web Developer:blue_heart:::virgo:
 
-- 🔭 I'm currently working on ... React
-- 🌱 I'm currently learning ...C#_
-- 👯 I'm looking to collaborate on ... C++
+- 🔭 I'm currently working on something cool!
+- 🌱 I'm currently learning with help from docs.github.com
+- 👯 I'm looking to collaborate on ... C#
 - 🤔 I'm looking for help with...Python🐍
 - 💬 Ask me about ...💎JavaScript😍
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
