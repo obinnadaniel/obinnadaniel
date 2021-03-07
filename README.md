@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 --> Am Obinna Daniel a Web Developer:blue_heart:::virgo:
 
 - 🔭 I'm currently working on something cool💎!
-- 🌱 I'm currently learning with help from docs.github.com
+- 🌱 I'm currently learning Wordpress
 - 👯 I'm looking to collaborate on ... C#
 - 🤔 My interests are with Data Mining, Critical Thinking, etc..;
 - 💬 Ask me about ...JavaScript😍
