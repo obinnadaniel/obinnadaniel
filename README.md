@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help with...Python🐍
 - 💬 Ask me about ...💎JavaScript😍
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
-- 😄 Pronouns: ...What if our universe was just a Code🖥
+- 😄 Pronouns: ...What if our universe was just a Code</>
 - ⚡ Fun fact: I Code Anything⭐
 
 
