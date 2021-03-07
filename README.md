@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach Me: ...📧Obinnadaniel30@yahoo.com
 - 😄 Pronouns: ...What if our universe was just a Code🖥
 - ⚡ Fun fact: ...✈🛸💎
-- Am Obinna Daniel a Web Developer💎
--->I Code Anything⭐
+-
+--> Am Obinna Daniel a Web Developer💎
 
 - 🔭 I'm currently working on ... React
 - 🌱 I'm currently learning ...C#_
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...JavaScript😍
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
 - 😄 Pronouns: ...What if our universe was just a Code🖥
-- ⚡ Fun fact: ...✈🛸
+- ⚡ Fun fact: I Code Anything⭐
 
 
