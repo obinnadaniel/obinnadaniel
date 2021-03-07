@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on ... React
 - 🌱 I'm currently learning ...C#_
-- 👯 I'm looking to collaborate on ... Reactjs
+- 👯 I'm looking to collaborate on ... C++
 - 🤔 I'm looking for help with...Python🐍
 - 💬 Ask me about ...💎JavaScript😍
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
