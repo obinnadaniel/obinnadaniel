@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on ... C#
 - 🤔 My interests are with Data Mining, Critical Thinking, etc..;
 - 💬 Ask me about ...JavaScript😍
-- 📫 How to reach Me:📧obinnadaniel30@yahoo.com
+- 📫 How to reach Me:📧obinnadaniel30@yahoo.com or
 linkedin.com/in/obinna-daniel-470a921a3
 - 😄 Pronouns: ...What if our universe was just a Code</>
 
