@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach Me:..📧Obinnadaniel30@yahoo.com
 - 😄 Pronouns: ...What if our universe was just a Code</>
 - ⚡ Fun fact: I Code Anything⭐
-- ![image](https://user-images.githubusercontent.com/60426469/110284864-aa370100-7fe2-11eb-8187-599889f1356b.png)
+-![image](https://user-images.githubusercontent.com/60426469/110285076-04d05d00-7fe3-11eb-856b-5dd5463db7ba.png)
 ![image](https://user-images.githubusercontent.com/60426469/110255524-8220b100-7f94-11eb-87e2-1726b5feb319.png)
-![image](https://user-images.githubusercontent.com/60426469/110284879-b327d280-7fe2-11eb-8846-6a30b92b5670.png)
 
 
 
