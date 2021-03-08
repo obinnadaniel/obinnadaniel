@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...JavaScript😍
 - 📫 How to reach Me:📧obinnadaniel30@yahoo.com 
 - 😄 Pronouns: ...What if our universe was just a Code</>
-
 ![image](https://user-images.githubusercontent.com/60426469/110255524-8220b100-7f94-11eb-87e2-1726b5feb319.png)
 - ⚡ Fun fact: I Code Anything⭐
 
