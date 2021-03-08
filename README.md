@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...What if our universe was just a Code🖥
 - ⚡ Fun fact: ...✈🛸💎
 -
---> Am Obinna Daniel a Web Developer:blue_heart:::virgo:
+--> 
+- Am Obinna Daniel a Web Developer:blue_heart:::virgo:
 
 - 🔭 I'm currently working on something cool💎!
 - 🌱 I'm currently learning Wordpress
