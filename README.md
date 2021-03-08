@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -
 -->
  ### Hi there 👋
-  Am Obinna Daniel a Web Developer:blue_heart:::virgo:
+  Am Obinna Daniel a Creative Web Developer:blue_heart:::virgo:
+  
+
+![image](https://user-images.githubusercontent.com/60426469/110255524-8220b100-7f94-11eb-87e2-1726b5feb319.png)
 
 - 🔭 I'm currently working on something cool💎!
 - 🌱 I'm currently learning Wordpress
@@ -25,8 +28,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...JavaScript😍
 - 📫 How to reach Me:📧obinnadaniel30@yahoo.com 
 - 😄 Pronouns: ...What if our universe was just a Code</>
-
-![image](https://user-images.githubusercontent.com/60426469/110255524-8220b100-7f94-11eb-87e2-1726b5feb319.png)
 - ⚡ Fun fact: I Code Anything⭐
 
 
