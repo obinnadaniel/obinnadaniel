@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...What if our universe was just a Code</>
 - ⚡ Fun fact: I Code Anything⭐
 - 
--![image](https://user-images.githubusercontent.com/60426469/110255524-8220b100-7f94-11eb-87e2-1726b5feb319.png)
+-!![image](https://user-images.githubusercontent.com/60426469/110286442-3c400900-7fe5-11eb-860f-0ca8652b228f.png)
+[image](https://user-images.githubusercontent.com/60426469/110255524-8220b100-7f94-11eb-87e2-1726b5feb319.png)![image](https://user-images.githubusercontent.com/60426469/110286470-48c46180-7fe5-11eb-9a51-9ce36fafa356.png)
+
+
 
 
 
