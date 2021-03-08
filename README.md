@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **obinnadaniel/obinnadaniel⚓** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...What if our universe was just a Code🖥
 - ⚡ Fun fact: ...✈🛸💎
 -
---> 
+--> ### Hi there 👋
   Am Obinna Daniel a Web Developer:blue_heart:::virgo:
 
 - 🔭 I'm currently working on something cool💎!
