@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/60426469/110255524-8220b100-7f94-11eb-87e2-1726b5feb319.png)
 
 - 🔭 I'm currently working on something cool💎!
-- 🌱 I'm currently learning Wordpress
 - 👯 I'm looking to collaborate on ... C#
 - 🤔 My interests are with Data Mining, Critical Thinking, etc..;
 - 💬 Ask me about ...JavaScript😍
