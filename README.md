@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 🤔 My interests are with Data Mining, Critical Thinking, etc..;
 - 💬 Ask me about ...JavaScript😍
 - 📫 How to reach Me:📧obinnadaniel30@yahoo.com 
-- 😄 Pronouns: ...What if our universe was just a Code</>
-- ⚡ Fun fact: I Code Anything⭐
+- 😄 Pronouns: ...What if our universe was just a Code🙄
+- ⚡ Fun fact: I </> Anything⭐
 
 
 
